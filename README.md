@@ -6,3 +6,5 @@ The dataset contains the following columns(MetaData) :
 2) description - Job description
 3) value -Job location
 
+Text Visulization-Bag of words
+![word cloud visulaization](https://user-images.githubusercontent.com/89747951/193011953-1efb08b0-3a76-4f82-a830-79506c6aefeb.png)
